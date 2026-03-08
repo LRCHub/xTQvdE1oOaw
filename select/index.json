@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Rumah Ke Rumah",
+  "base_artist": "Hindia",
+  "createdAt": "2026-03-08T20:12:48.096038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/01_Rumah_Ke_Rumah_Hindia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hindia - Rumah ke Rumah (Official Music Video)",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/02_Hindia_-_Rumah_ke_Rumah_(Official_Music_Video)_Hindia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/03_Rumah_Ke_Rumah_Hindia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/04_Rumah_Ke_Rumah_Hindia.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hindia - Rumah Ke Rumah (​Official Lyric & Commentary Video)",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/05_Hindia_-_Rumah_Ke_Rumah_(​Official_Lyric_&_Commentary_Video)_Hindia.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hindia - Rumah Ke Rumah (​Official Lyric & Commentary Video)",
+      "artist": "Hindia",
+      "has_synced": true,
+      "path": "select/06_Hindia_-_Rumah_Ke_Rumah_(​Official_Lyric_&_Commentary_Video)_Hindia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rumah Ke Rumah",
+      "artist": "Hindia",
+      "has_synced": false,
+      "path": "select/pl_01_Rumah_Ke_Rumah_Hindia.txt"
+    }
+  ]
+}
